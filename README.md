@@ -6,9 +6,9 @@
 
 Welcome to the Chia GUI repo!
 
-Chia GUI is written in TypeScript and uses Electron/React.
+Chia GUI is  written in  TypeScript and  uses  Electron/React.
 
-This monorepo consists of the following packages:
+This  monorepo consists of the following  packages:
 
 | Package name  | Description                                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------------------------- |
