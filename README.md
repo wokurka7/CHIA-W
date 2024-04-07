@@ -4,11 +4,11 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain-gui?logo=GitHub)
 
-Welcome  to  the  Chia  GUI  repo!
+Welcome  to  the Chia GUI repo!
 
 Chia GUI  is   written  in TypeScript  and uses Electron/React.
 
-This  monorepo consists of the following  packages:
+This  monorepo consists of the  following  packages:
 
 | Package name  | Description                                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------------------------- |
